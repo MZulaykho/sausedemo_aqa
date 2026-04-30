@@ -1,5 +1,4 @@
 from playwright.sync_api import expect
-from urllib3.util import url
 
 
 class BasePage:
